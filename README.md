@@ -43,19 +43,6 @@ A lightweight, production-ready Human Resource Management System built with Fast
 - Python 3.11+ (for local development)
 - PostgreSQL 16+ (for local development without Docker)
 
-## 🚀 Quick Start with Docker
-
-1. **Clone the repository**
-```bash
-git clone <your-repo-url>
-cd hrms-lite
-```
-
-2. **Start all services**
-```bash
-docker-compose up --build
-```
-
 3. **Access the application**
 - Frontend: http://localhost
 - Backend API: http://localhost:8000
@@ -348,7 +335,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Author
 
-Your Name - Full Stack Developer
+Shreya Sai - Full Stack Developer
 
 ## 🙏 Acknowledgments
 
